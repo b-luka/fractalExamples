@@ -1,5 +1,5 @@
 # fractalExamples
-Some basic examples of fractal image generation in Processing/ Java
+Some basic examples of fractal image generation in Processing/Java. <br>
 Currently only includes 2D fractals, those being:
 - Mandelbrot set (along with the Multibrot sets)
 - Sierpinski triangle
